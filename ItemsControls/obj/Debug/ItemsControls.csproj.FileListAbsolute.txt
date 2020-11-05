@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ItemsControls\ItemsControls\bin\Debug\ItemsControls.exe.config
+C:\Users\Admin\source\repos\ItemsControls\ItemsControls\bin\Debug\ItemsControls.exe
+C:\Users\Admin\source\repos\ItemsControls\ItemsControls\bin\Debug\ItemsControls.pdb
+C:\Users\Admin\source\repos\ItemsControls\ItemsControls\obj\Debug\ItemsControls.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ItemsControls\ItemsControls\obj\Debug\ItemsControls.Form1.resources
+C:\Users\Admin\source\repos\ItemsControls\ItemsControls\obj\Debug\ItemsControls.Properties.Resources.resources
+C:\Users\Admin\source\repos\ItemsControls\ItemsControls\obj\Debug\ItemsControls.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ItemsControls\ItemsControls\obj\Debug\ItemsControls.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ItemsControls\ItemsControls\obj\Debug\ItemsControls.exe
+C:\Users\Admin\source\repos\ItemsControls\ItemsControls\obj\Debug\ItemsControls.pdb

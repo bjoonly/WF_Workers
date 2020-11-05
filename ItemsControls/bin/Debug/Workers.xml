@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ArrayOfWorker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Worker>
+    <FirstName>Vasa</FirstName>
+    <LastName>Petrov</LastName>
+    <Salary>12500</Salary>
+    <Position>Director</Position>
+    <City>Kherson</City>
+    <Address>Pushkinskaya</Address>
+    <House>12</House>
+  </Worker>
+  <Worker>
+    <FirstName>Petro</FirstName>
+    <LastName>Vasiliev</LastName>
+    <Salary>10000</Salary>
+    <Position>Programmer</Position>
+    <City>Kharkiv</City>
+    <Address>Copernicus</Address>
+    <House>1</House>
+  </Worker>
+  <Worker>
+    <FirstName>Nastya</FirstName>
+    <LastName>Petrova</LastName>
+    <Salary>15200</Salary>
+    <Position>Designer</Position>
+    <City>Rivne</City>
+    <Address>Lonokombinativska</Address>
+    <House>13</House>
+  </Worker>
+</ArrayOfWorker>
